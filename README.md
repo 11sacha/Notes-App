@@ -1,1 +1,8 @@
-## Full-stack Notes App 
+## Full-stack Notes App.
+
+### Technologies used: 
+ - React.js
+ - Typescript
+ - Node.js
+ - Express
+ - Prisma
